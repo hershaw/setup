@@ -43,7 +43,7 @@ Follow each of the links to download and install.
     - If you are on windows:
       - Make sure that there are no non-english characters in your username or on the path and that you have qt installed. [Here is a reference](https://github.com/ContinuumIO/anaconda-issues/issues/1270) on how to address these issues.
 
-### Step 2 - Clone an LDSSA repo
+### Step 2 - Clone a repo
 
 In the future, you will clone other repositories so take note of these
 steps, you will indeed use them again. If you don't already know where
@@ -71,7 +71,7 @@ Once they are you use *almost* the same clone command as above in
 "the easy way"
 
 ```
-git clone git@github.com:LDSSA/setup.git
+git clone git@github.com:hershaw/workshop-setup.git
 ```
   
 Take a note of the filepath on which you cloned the repo!
