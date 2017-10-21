@@ -97,7 +97,7 @@ If you get a couple of pretty graphs, you are all good to go!
 
 #### Before the day
 
-On the thursday before the academy, we will be asking you to clone another repository.
+On the day of the workshop, we will be asking you to clone another repository.
 With the new repo, you will do everything the same as in step 4 but nagivate to a
 different repository.
 
