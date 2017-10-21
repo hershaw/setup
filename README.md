@@ -61,7 +61,7 @@ select "clone using github desktop" as shown below:
 #### From the command line the easy way
 
 ```
-git clone https://github.com/LDSSA/setup.git
+git clone https://github.com/hershaw/workshop-setup.git
 ```
 
 #### From the command line the ssh way
@@ -103,5 +103,5 @@ different repository.
 
 #### On git usage
 
-- If you are trying to sync a notebook and you get a conflicts error,
+- If you are trying to sync a repo and you get a conflicts error,
   navigate to the directory and execute `git stash` before you sync again.
